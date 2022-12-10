@@ -25,15 +25,6 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mazuquiebe&show_icons=true&theme=vision-friendly-dark" alt="Mazuquiebe's stats"/>
-</p>
-
-<br>
-## Contact
-
 <p align="left" style="background:green">
 <a href="https://www.linkedin.com/in/mazuquiebe-filho-549815230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mazuquiebe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -46,6 +37,14 @@
 </a>
 </p>
 <!--
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mazuquiebe&show_icons=true&theme=vision-friendly-dark" alt="Mazuquiebe's stats"/>
+</p>
+
+<br>
 **Mazuquiebe/Mazuquiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
