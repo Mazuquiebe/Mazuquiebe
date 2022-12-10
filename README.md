@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
+<h1 align="left">Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazuquiebe&color=green" alt="Profile views" /> </p>
 
 - 🔥 Full stack Web Developer
@@ -26,19 +26,15 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;<br>
 ![SQLite3](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;<br>
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mazuquiebe&show_icons=true&theme=vision-friendly-dark" alt="Mazuquiebe's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazuquiebe&layout=compact&theme=vision-friendly-dark" alt="Mazuquiebe's most languages"/>
 </p>
-<!--
--->
 
-<br><br>
-
+<br>
 ## Contact
 
 <p align="left" style="background:green">
