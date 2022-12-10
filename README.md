@@ -2,7 +2,11 @@
 <h1 align="left">Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazuquiebe&color=green" alt="Profile views" /> </p>
 
-- 🔥 Full stack Web Developer
+- 👨‍💻 Full stack Web Developer
+- 💗 I love to learn something new 
+- 💭 I'm very curious
+- 🔧 Like to build electronic projects in my free time, that's one of my favorite hobbies
+- ❤️‍🔥 Love to help people
 
 <br>
 
