@@ -3,11 +3,7 @@
 
 - 🔥 Full stack Web Developer
 
-- 💬 Ask me about **JavaScript, Typescript, HTML, CSS, SQL, Node.JS, Python, Django**
-
-- 👨‍💻 More at [mazuquiebe_filho.dev](https://mazuquiebe_filho.dev)
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
