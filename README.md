@@ -1,4 +1,4 @@
-<img src="https://github.com/Mazuquiebe/Mazuquiebe/blob/main/%40DMRMAZU.gif" align="right" width="400px">
+<img src="https://github.com/Mazuquiebe/Mazuquiebe/blob/main/%40DMRMAZU%20(1).gif" align="right" width="400px">
 <h1 align="left">Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazuquiebe&color=green" alt="Profile views" /> </p>
 
