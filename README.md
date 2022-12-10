@@ -5,7 +5,7 @@
 - 👨‍💻 Full stack Web Developer
 - 💗 I love to learn something new 
 - 💭 I'm very curious
-- 🔧 Like to build electronic projects in my free time, that's one of my favorite hobbies
+- 🔧 One of my favorite hobbies - to learn and build electronic projects
 - ❤️‍🔥 Love to help people
 
 ## 🛠 &nbsp;Tech Stack
