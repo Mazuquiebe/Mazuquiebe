@@ -1,3 +1,4 @@
+<img src="https://github.com/Mazuquiebe/Mazuquiebe/blob/main/logo_MF_axonometric_cube.svg">
 <h1 align="left">Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazuquiebe&color=green" alt="Profile views" /> </p>
 
