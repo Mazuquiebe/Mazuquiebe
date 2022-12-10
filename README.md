@@ -8,8 +8,6 @@
 - 🔧 Like to build electronic projects in my free time, that's one of my favorite hobbies
 - ❤️‍🔥 Love to help people
 
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
