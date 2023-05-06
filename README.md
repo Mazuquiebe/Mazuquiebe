@@ -26,19 +26,6 @@
 
 <br>
 
-<p align="left" style="background:green">
-<a href="https://www.linkedin.com/in/mazuquiebe-filho-549815230/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mazuquiebe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/dmrmazu/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mazuquiebe-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/@mazuquiebe_filho" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mazuquiebe-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
-<!--
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -48,14 +35,3 @@
 <br>
 **Mazuquiebe/Mazuquiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
