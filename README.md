@@ -1,4 +1,11 @@
 <h1 align="left"> What's up<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mazuquiebe Filho</h1>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mazuquiebe&show_icons=true&theme=vision-friendly-dark" alt="Mazuquiebe's stats"/>
+</p>
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazuquiebe&color=green" alt="Profile views" /> </p>
 
 - 👨‍💻 Full stack Web Developer
@@ -26,12 +33,5 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mazuquiebe&show_icons=true&theme=vision-friendly-dark" alt="Mazuquiebe's stats"/>
-</p>
-
-<br>
-**Mazuquiebe/Mazuquiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
